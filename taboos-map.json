@@ -1,0 +1,562 @@
+{
+    "祭祀": {
+        "recommend": ["感谢前辈的付出","给优秀项目捐赠"],
+        "avoid": []
+    },
+    "祈福": {
+        "recommend": ["祈祷程序不会报错"],
+        "avoid": []
+    },
+    "求嗣": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开光": {
+        "recommend": ["编译源码"],
+        "avoid": []
+    },
+    "塑绘": {
+        "recommend": ["构建新项目"],
+        "avoid": []
+    },
+    "齐醮": {
+        "recommend": ["祈祷程序不会报错"],
+        "avoid": []
+    },
+    "斋醮": {
+        "recommend": ["祈祷程序不会报错"],
+        "avoid": []
+    },
+    "沐浴": {
+        "recommend": ["规范书写代码","整理杂乱文件"],
+        "avoid": []
+    },
+    "酬神": {
+        "recommend": ["给优秀项目捐赠"],
+        "avoid": []
+    },
+    "造庙": {
+        "recommend": ["构建新项目"],
+        "avoid": []
+    },
+    "祀灶": {
+        "recommend": [],
+        "avoid": []
+    },
+    "焚香": {
+        "recommend": [],
+        "avoid": []
+    },
+    "谢土": {
+        "recommend": [],
+        "avoid": []
+    },
+    "出火": {
+        "recommend": [],
+        "avoid": []
+    },
+    "雕刻": {
+        "recommend": [],
+        "avoid": []
+    },
+    "嫁娶": {
+        "recommend": [],
+        "avoid": []
+    },
+    "订婚": {
+        "recommend": [],
+        "avoid": []
+    },
+    "纳采": {
+        "recommend": [],
+        "avoid": []
+    },
+    "问名": {
+        "recommend": [],
+        "avoid": []
+    },
+    "纳婿": {
+        "recommend": [],
+        "avoid": []
+    },
+    "归宁": {
+        "recommend": [],
+        "avoid": []
+    },
+    "安床": {
+        "recommend": [],
+        "avoid": []
+    },
+    "合帐": {
+        "recommend": [],
+        "avoid": []
+    },
+    "冠笄": {
+        "recommend": [],
+        "avoid": []
+    },
+    "订盟": {
+        "recommend": [],
+        "avoid": []
+    },
+    "进人口": {
+        "recommend": [],
+        "avoid": []
+    },
+    "裁衣": {
+        "recommend": [],
+        "avoid": []
+    },
+    "挽面": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开容": {
+        "recommend": [],
+        "avoid": []
+    },
+    "修坟": {
+        "recommend": [],
+        "avoid": []
+    },
+    "启钻": {
+        "recommend": [],
+        "avoid": []
+    },
+    "破土": {
+        "recommend": [],
+        "avoid": []
+    },
+    "安葬": {
+        "recommend": [],
+        "avoid": []
+    },
+    "立碑": {
+        "recommend": [],
+        "avoid": []
+    },
+    "成服": {
+        "recommend": [],
+        "avoid": []
+    },
+    "除服": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开生坟": {
+        "recommend": [],
+        "avoid": []
+    },
+    "合寿木": {
+        "recommend": [],
+        "avoid": []
+    },
+    "入殓": {
+        "recommend": [],
+        "avoid": []
+    },
+    "移柩": {
+        "recommend": [],
+        "avoid": []
+    },
+    "普渡": {
+        "recommend": [],
+        "avoid": []
+    },
+    "入宅": {
+        "recommend": [],
+        "avoid": []
+    },
+    "安香": {
+        "recommend": [],
+        "avoid": []
+    },
+    "安门": {
+        "recommend": [],
+        "avoid": []
+    },
+    "修造": {
+        "recommend": [],
+        "avoid": []
+    },
+    "起基": {
+        "recommend": [],
+        "avoid": []
+    },
+    "动土": {
+        "recommend": [],
+        "avoid": []
+    },
+    "上梁": {
+        "recommend": [],
+        "avoid": []
+    },
+    "竖柱": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开井开池": {
+        "recommend": [],
+        "avoid": []
+    },
+    "作陂放水": {
+        "recommend": [],
+        "avoid": []
+    },
+    "拆卸": {
+        "recommend": [],
+        "avoid": []
+    },
+    "破屋": {
+        "recommend": [],
+        "avoid": []
+    },
+    "坏垣": {
+        "recommend": [],
+        "avoid": []
+    },
+    "补垣": {
+        "recommend": [],
+        "avoid": []
+    },
+    "伐木做梁": {
+        "recommend": [],
+        "avoid": []
+    },
+    "作灶": {
+        "recommend": [],
+        "avoid": []
+    },
+    "解除": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开柱眼": {
+        "recommend": [],
+        "avoid": []
+    },
+    "穿屏扇架": {
+        "recommend": [],
+        "avoid": []
+    },
+    "盖屋合脊": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开厕": {
+        "recommend": [],
+        "avoid": []
+    },
+    "造仓": {
+        "recommend": [],
+        "avoid": []
+    },
+    "塞穴": {
+        "recommend": [],
+        "avoid": []
+    },
+    "平治道涂": {
+        "recommend": [],
+        "avoid": []
+    },
+    "造桥": {
+        "recommend": [],
+        "avoid": []
+    },
+    "作厕": {
+        "recommend": [],
+        "avoid": []
+    },
+    "筑堤": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开池": {
+        "recommend": [],
+        "avoid": []
+    },
+    "伐木": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开渠": {
+        "recommend": [],
+        "avoid": []
+    },
+    "掘井": {
+        "recommend": [],
+        "avoid": []
+    },
+    "扫舍": {
+        "recommend": [],
+        "avoid": []
+    },
+    "放水": {
+        "recommend": [],
+        "avoid": []
+    },
+    "造屋": {
+        "recommend": [],
+        "avoid": []
+    },
+    "合脊": {
+        "recommend": [],
+        "avoid": []
+    },
+    "造畜稠": {
+        "recommend": [],
+        "avoid": []
+    },
+    "修门": {
+        "recommend": [],
+        "avoid": []
+    },
+    "定磉": {
+        "recommend": [],
+        "avoid": []
+    },
+    "作梁": {
+        "recommend": [],
+        "avoid": []
+    },
+    "修饰垣墙": {
+        "recommend": [],
+        "avoid": []
+    },
+    "架马": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开市": {
+        "recommend": [],
+        "avoid": []
+    },
+    "挂匾": {
+        "recommend": [],
+        "avoid": []
+    },
+    "纳财": {
+        "recommend": [],
+        "avoid": []
+    },
+    "求财": {
+        "recommend": [],
+        "avoid": []
+    },
+    "开仓": {
+        "recommend": [],
+        "avoid": []
+    },
+    "买车": {
+        "recommend": [],
+        "avoid": []
+    },
+    "置产": {
+        "recommend": [],
+        "avoid": []
+    },
+    "雇佣": {
+        "recommend": [],
+        "avoid": []
+    },
+    "出货财": {
+        "recommend": [],
+        "avoid": []
+    },
+    "安机械": {
+        "recommend": [],
+        "avoid": []
+    },
+    "造车器": {
+        "recommend": [],
+        "avoid": []
+    },
+    "经络": {
+        "recommend": [],
+        "avoid": []
+    },
+    "酝酿": {
+        "recommend": [],
+        "avoid": []
+    },
+    "作染": {
+        "recommend": [],
+        "avoid": []
+    },
+    "鼓铸": {
+        "recommend": [],
+        "avoid": []
+    },
+    "造船": {
+        "recommend": [],
+        "avoid": []
+    },
+    "割蜜": {
+        "recommend": [],
+        "avoid": []
+    },
+    "栽种": {
+        "recommend": [],
+        "avoid": []
+    },
+    "取渔": {
+        "recommend": [],
+        "avoid": []
+    },
+    "结网": {
+        "recommend": [],
+        "avoid": []
+    },
+    "牧养": {
+        "recommend": [],
+        "avoid": []
+    },
+    "安碓磑": {
+        "recommend": [],
+        "avoid": []
+    },
+    "习艺": {
+        "recommend": [],
+        "avoid": []
+    },
+    "入学": {
+        "recommend": [],
+        "avoid": []
+    },
+    "理发": {
+        "recommend": [],
+        "avoid": []
+    },
+    "探病": {
+        "recommend": [],
+        "avoid": []
+    },
+    "见贵": {
+        "recommend": [],
+        "avoid": []
+    },
+    "乘船": {
+        "recommend": [],
+        "avoid": []
+    },
+    "渡水": {
+        "recommend": [],
+        "avoid": []
+    },
+    "针灸": {
+        "recommend": [],
+        "avoid": []
+    },
+    "出行": {
+        "recommend": [],
+        "avoid": []
+    },
+    "移徙": {
+        "recommend": [],
+        "avoid": []
+    },
+    "分居": {
+        "recommend": [],
+        "avoid": []
+    },
+    "剃头": {
+        "recommend": [],
+        "avoid": []
+    },
+    "整手足甲": {
+        "recommend": [],
+        "avoid": []
+    },
+    "纳畜": {
+        "recommend": [],
+        "avoid": []
+    },
+    "捕捉": {
+        "recommend": [],
+        "avoid": []
+    },
+    "畋猎": {
+        "recommend": [],
+        "avoid": []
+    },
+    "教牛马": {
+        "recommend": [],
+        "avoid": []
+    },
+    "会亲友": {
+        "recommend": [],
+        "avoid": []
+    },
+    "赴任": {
+        "recommend": [],
+        "avoid": []
+    },
+    "求医": {
+        "recommend": [],
+        "avoid": []
+    },
+    "治病": {
+        "recommend": [],
+        "avoid": []
+    },
+    "词讼": {
+        "recommend": [],
+        "avoid": []
+    },
+    "起基动土": {
+        "recommend": [],
+        "avoid": []
+    },
+    "破屋坏垣": {
+        "recommend": [],
+        "avoid": []
+    },
+    "盖屋": {
+        "recommend": [],
+        "avoid": []
+    },
+    "造仓库": {
+        "recommend": [],
+        "avoid": []
+    },
+    "交易": {
+        "recommend": [],
+        "avoid": []
+    },
+    "立券": {
+        "recommend": [],
+        "avoid": []
+    },
+    "安机": {
+        "recommend": [],
+        "avoid": []
+    },
+    "会友": {
+        "recommend": [],
+        "avoid": []
+    },
+    "求医疗病": {
+        "recommend": [],
+        "avoid": []
+    },
+    "诸事不宜": {
+        "recommend": [],
+        "avoid": []
+    },
+    "馀事勿取": {
+        "recommend": [],
+        "avoid": []
+    },
+    "行丧": {
+        "recommend": [],
+        "avoid": []
+    },
+    "断蚁": {
+        "recommend": [],
+        "avoid": []
+    },
+    "归岫": {
+        "recommend": [],
+        "avoid": []
+    }
+}
